@@ -1,8 +1,8 @@
 body{
-   background-color:purple;
-}}
+   background: linear-gradient(purple, violet );
+}
 header{
-    background-color: blueviolet;
+    background-color: rgb(247, 4, 4);
 }
 section{
     background-color:white;
