@@ -1,10 +1,16 @@
 body{
    background: linear-gradient(purple, violet );
+   font-family: Arial, Helvetica, sans-serif;
 }
 header{
     background-color: rgb(247, 4, 4);
+    margin: 0 auto;
+    padding: 16px;
 }
 section{
     background-color:white;
     margin: 16px;
+    padding: 16px;
+    max-width: 502px;
+    border-radius: 12px;
 }
